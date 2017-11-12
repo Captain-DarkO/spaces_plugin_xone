@@ -1,0 +1,68 @@
+
+.header{
+  height: 25px;
+  width: 100%;
+  padding: 5px;
+  margin: 0;
+  top: 0;
+  left: 0;
+  position: fixed;
+  background: purple;
+  font-size: 22px;
+  color: white;
+}
+.dettable{
+  margin: 25px;
+  margin-top: 45px;
+  border: none;
+  border-radius: 15px;
+}
+button{
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  overflow: hidden;
+  outline:none;
+  padding: 15px;
+  color: white;
+  font-size: 18px;
+}
+.phone-model{
+  width: auto;
+  padding: 25px;
+  background: blue;
+  color: white;
+  font-size: 18px;
+}
+.feature{
+  padding: 5px;
+  background: grey;
+  color: white;
+  font-size: 18px;
+}
+
+.slide {
+  padding: 15px;
+  width:200px;
+  height:100%;
+  position:relative;
+  right:-200px;
+  top:0;
+  background:#d2d2d2;
+  border-radius: 25px;
+}
+
+#close {
+  position:absolute;
+  right:10px;
+  top:10px;
+  z-index:10;
+  display:none;
+}
+
+.feature-box{
+  overflow:hidden;
+  width:200px;
+  height:100%;
+}

@@ -1,0 +1,20 @@
+[
+  [
+    {"key":"Apple", "value":10},
+    {"key":"Samsung", "value":12},
+    {"key":"OnePlus", "value":20}
+  ],
+  [
+    {"key":"Chipset", "value":12},
+    {"key":"Ram", "value":8},
+    {"key":"Camera", "value":14},
+    {"key":"Battery", "value":10},
+    {"key":"Storage", "value":8},
+    {"key":"Connectivity", "value":3}
+  ],
+  [
+    {"key":"Apple", "value":70000},
+    {"key":"Samsung", "value":64000},
+    {"key":"OnePlus", "value":34000}
+  ]
+]
